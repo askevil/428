@@ -1,0 +1,80 @@
+p{
+    
+    font-size:22px;
+    font-family:宋体;
+}
+a{
+    text-decoration: none;
+}
+.bigger{
+    font-size:25px;
+    font-family:宋体;
+}
+.sentence{
+    text-indent:2em;
+    font-size:22px;
+    line-height:32px;
+    font-family:宋体;
+}
+.bg0{
+    background-color: black;
+    color:white;
+}
+.right{
+    text-align:right;
+}
+.center{
+    text-align:center;
+}
+.left{
+    text-align:left;
+}
+.normal{
+    font-size:22px;
+    font-family:宋体;
+}
+strong{
+    font-weight: 800;
+}
+.indent{
+    text-indent:2em;
+}
+.itallic{
+    font-style: italic;
+}
+.line{
+    line-height: 32px;
+}
+.celeste{
+    color:aquamarine;
+}
+a:hover{
+    color:aquamarine;
+}
+.black{
+    color: black;
+}
+.dark{
+    background-color:black;
+}
+.white{
+    color:rgb(252, 252, 251);
+}
+.yellow{
+    color:rgb(34, 35, 1);
+}
+.hese{
+    color:darkkhaki;
+}
+.pink{
+    color:pink;
+}
+.grey{
+    color:rgb(135, 134, 134);
+}
+.red{
+    color:rgb(236, 19, 70);
+}
+.brown{
+    color:rgb(185, 174, 163);
+}
